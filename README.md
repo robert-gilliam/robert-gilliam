@@ -7,7 +7,7 @@
 🚀 **About Me:**
 - 💻 Full-Stack Developer with over a decade of experience creating web applications
 - 🤖 Founder of [philanthrobots.ai](https://philanthrobots.ai), empowering non-profits and charities with AI.
-- Board President and Founder of [carnationfarmersmarket.org](https://carnationfarmersmarket.org)
+- 🌽 Board President and Founder of [carnationfarmersmarket.org](https://carnationfarmersmarket.org)
 - 🌱 Lifelong learner, striving to stay relevant even when JavaScript becomes obsolete.
 
 ### 🛠️ Tech Toolbox:
@@ -21,7 +21,7 @@
 
 ### 📫 How to Reach Me:
 - **Personal Website:** [robertgilliam.com](https://robertgilliam.com)
-- **LinkedIn:** [linkedin.com/in/robertgilliam](https://linkedin.com/in/robertgilliam)
+- **LinkedIn:** [linkedin.com/in/robertgilliam](https://www.linkedin.com/in/robertgilliam)
 
 ### 🌟 Fun Fact:
 - I once tried to use a `while` loop to make coffee. The coffee machine wasn't happy.
