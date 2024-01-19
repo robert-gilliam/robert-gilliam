@@ -1,13 +1,13 @@
 # Hello, World! I'm Robert Gilliam 👋
 
-## Full-Stack Developer | AI Tech Startup Leader | Non-Profit Technology Innovator
+## Full-Stack Software Engineer | AI Tech Startup Leader | Non-Profit Technology Innovator
 
 ### `console.log("Welcome to my GitHub profile!");`
 
 🚀 **About Me:**
-- 💻 Full-Stack Software Engineer with over a decade of experience creating web applications
+- 💻 Full-Stack Developer with over a decade of experience creating web applications.
 - 🤖 Founder of [philanthrobots.ai](https://philanthrobots.ai), empowering non-profits and charities with AI.
-- 🌽 Board President and Founder of [Carnation Farmers Market](https://carnationfarmersmarket.org)
+- 🌽 Board President and Founder of [Carnation Farmers Market](https://carnationfarmersmarket.org).
 - 🌱 Lifelong learner, striving to stay relevant even when JavaScript becomes obsolete.
 
 ### 🛠️ Tech Toolbox:
@@ -17,7 +17,7 @@
 - **DevOps:** AWS, build, deployment, and testing proceesses
 
 ### 🚀 Recent Projects:
-- *Due to proprietary nature of current projects and non-disclosure agreements, my github repos are mostly private. Code samples can be provided upon request.*
+- *Due to proprietary nature of current projects and non-disclosure agreements, my github repos are mostly private. Code samples and resume can be provided upon request.*
 
 ### 📫 How to Reach Me:
 - **Personal Website:** [robertgilliam.com](https://robertgilliam.com)
