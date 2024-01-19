@@ -7,7 +7,7 @@
 🚀 **About Me:**
 - 💻 Full-Stack Developer with over a decade of experience creating web applications
 - 🤖 Founder of [philanthrobots.ai](https://philanthrobots.ai), empowering non-profits and charities with AI.
-- 🌽 Board President and Founder of [carnationfarmersmarket.org](https://carnationfarmersmarket.org)
+- 🌽 Board President and Founder of [Carnation Farmers Market](https://carnationfarmersmarket.org)
 - 🌱 Lifelong learner, striving to stay relevant even when JavaScript becomes obsolete.
 
 ### 🛠️ Tech Toolbox:
