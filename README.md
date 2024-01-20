@@ -12,7 +12,7 @@
 - 🌱 Lifelong learner, striving to stay relevant even when JavaScript becomes obsolete.
 
 ### 🛠️ Tech Toolbox:
-- **Languages:** JavaScript, TypeScript, Google Apps Script, and others
+- **Languages:** JavaScript (ES6+), TypeScript, Google Apps Script, and others
 - **Frontend:** Angular, React.js, CSS3 & preprocessors, HTML5, Photoshop & Graphic Design
 - **Backend & Data Architecture:** Node.js, MongoDB, MySQL, and various NoSQL databases
 - **DevOps:** AWS, build, deployment, and testing proceesses
