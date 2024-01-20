@@ -4,7 +4,7 @@
 
 ### `console.log("Welcome to my GitHub profile!");`
 
-🚀 **About Me:**
+### 🎤 About Me:
 - 💻 Full-Stack Developer with over a decade of experience creating web applications.
 - 🤖 Founder of [philanthrobots.ai](https://philanthrobots.ai), empowering non-profits and charities with AI.
 - 🌽 Board President and Founder of [Carnation Farmers Market](https://carnationfarmersmarket.org).
